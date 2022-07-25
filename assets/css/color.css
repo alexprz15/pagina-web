@@ -1,0 +1,38 @@
+header {
+    background-color:black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+#menu {
+    background-color: cyan;
+    font-size: xx-large;
+    color: aqua ;
+}
+#menu ul li {
+    display: block;
+    float: left;
+    border: 5px solid   ;
+    background-color: black ;
+    color: aquamarine ;
+
+}
+#menu ul li a{
+    text-decoration: none ;
+    color: white ;
+}
+#imagen{
+    text-align: center
+}
+footer {
+    background-color:black;
+    color: white;
+    text-align: center;
+    padding: 15px; 
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+#cuerpo{
+    background-color: cornsilk;
+}

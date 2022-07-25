@@ -1,0 +1,93 @@
+table {
+
+
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid purple;
+    background-color: black;
+    color: white;
+
+}
+
+th,
+td {
+    padding: 20px;
+
+}
+thead th, tfoot th {
+    font-family: 'Rock Salt', cursive;
+  }
+  
+  th {
+    letter-spacing: 2px;
+  }
+  
+  td {
+    letter-spacing: 1px;
+  }
+  
+  tbody td {
+    text-align: center;
+  }
+  
+  tfoot th {
+    text-align: right;
+  }
+
+header {
+    background-color: black;
+    color: white;
+    text-align: end;
+    padding: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#menu-b {
+    background-color: cyan;
+    font-size: x-large;
+    color: aqua;
+}
+
+#menu-b ul li {
+    display: block;
+    float: left;
+    border: 5px solid;
+    background-color: black;
+    color: aquamarine;
+    font-size: x-large;
+
+}
+
+#menu-b ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+#imagen {
+    text-align: center
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#cuerpo {
+    background-color: darkgreen;
+}
+
+#descrip {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#titulo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,44 @@
+header {
+    background-color:black;
+    color: white;
+    text-align: end;
+    padding: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#menu-b {
+    background-color: cyan;
+    font-size: x-large;
+    color: aqua ;
+}
+#menu-b ul li {
+    display: block;
+    float: left;
+    border: 5px solid   ;
+    background-color: black ;
+    color: aquamarine ;
+    font-size: x-large;
+
+}
+#menu-b ul li a{
+    text-decoration: none ;
+    color: white ;
+}
+#imagen{
+    text-align: end
+
+}
+footer {
+    background-color:black;
+    color: white;
+    text-align: center;
+    padding: 15px; 
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+#cuerpo{
+    background-color: darkgreen;
+}
+#descrip{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
